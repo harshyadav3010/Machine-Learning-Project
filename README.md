@@ -54,12 +54,3 @@ The performance of the trained model is summarized in the results section, inclu
 ## Conclusion
 
 This project demonstrates the application of machine learning techniques for predicting Parkinson's disease based on biomedical voice measurements. Early detection facilitated by this model could lead to improved patient outcomes and better management strategies.
-
-## Contributors
-
-- [Your Name](https://github.com/your-username)
-- [Collaborator Name](https://github.com/collaborator-username)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
